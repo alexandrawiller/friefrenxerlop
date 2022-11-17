@@ -3,7 +3,7 @@
  <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Nuvola_mimetypes_java_jar.png" align="center" alt="GitHub Readme Stats" />
 </p>
 
-<h3 align="center"><b>Poliwhirl.jar</b></h3>
+<h3 align="center"><b>Rattata.jar</b></h3>
 <h3 align="center">For Dekstop install before </h3>
 
 
